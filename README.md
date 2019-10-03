@@ -2,7 +2,17 @@ This project is already hosted on utl:https://react-redux-firebase-61d86.firebas
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is website for store Blogs from people like if you are writing something and and you want to store on a site than you can create account on Blogger site and login and write blog there.
+Hello to everyone. We come with our first repo for conributers and those who are new to open source development, we also heartly invite you to come and promote open source.
 
-Site Useed 1.React 2.Redux 3.Firebase 
+The webapp is for bloggers to ceate blog. In this webapp users create their accounts and start bloging through this webapp
+
+We used following technologies:
+
+1) React.js
+2) Redux
+3) FireBase 
+
+
+
+
 
